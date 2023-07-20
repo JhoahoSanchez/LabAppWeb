@@ -1,0 +1,27 @@
+.header-div{
+    height: 50px;
+}
+.header-text{
+    color: #FFFFFF;
+}
+.list{
+    font-size: 17px;
+    font-weight: 600;
+    border: 0px;
+}
+.list:hover{
+    color: rgb(226, 163, 231);
+}
+.card-it{
+    width: 500px;
+    height: auto;
+}
+.btn-submmit{
+    background: #000000;
+    color: #ffffff;
+}
+.btn-submmit:hover{
+    background: rgb(255, 255, 255);
+    color: black;
+    border: 1px solid black ;
+}
